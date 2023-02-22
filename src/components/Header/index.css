@@ -1,0 +1,54 @@
+.website-logo {
+  height: 35px;
+  margin-top: 2%;
+  cursor: pointer;
+}
+.header-container {
+  background-color: #272727;
+  display: flex;
+  justify-content: space-between;
+  height: 70px;
+  padding-left: 2%;
+  padding-right: 3%;
+  align-items: center;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.home-btn {
+  background-color: transparent;
+  border: 0px;
+  cursor: pointer;
+}
+.website-img-btn {
+  background-color: transparent;
+  border: 0px;
+  cursor: pointer;
+  margin-top: 30px;
+  margin-left: 0px;
+}
+.home {
+  color: white;
+  font-size: 18px;
+  font-weight: 600;
+}
+.options-container {
+  display: flex;
+  align-items: center;
+  padding-left: 0px;
+}
+.log-out-btn {
+  color: white;
+  font-weight: 500;
+  padding: 8px;
+  border: 0px;
+  cursor: pointer;
+  outline: none;
+  border-radius: 5px;
+  background-color: blue;
+}
+.home-list-item {
+  list-style-type: none;
+}
+.link-item {
+  list-style-type: none;
+}
